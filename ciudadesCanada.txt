@@ -3,3 +3,4 @@
 "Toronto" 
 "Calgary" 
 "Montreal" 
+"Edmonton" 
